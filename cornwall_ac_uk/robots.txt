@@ -48,7 +48,7 @@
 
 
 
-    <link rel="shortcut icon" href="/images/favicon-cornwall.ico" type="image/vnd.microsoft.icon" />
+    <link rel="shortcut icon" href="/images/favicon-cornwall.ico" />
     <style>
         #loader {
             background: #fff url('../images/loader.gif') no-repeat center;
@@ -93,7 +93,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     # robots.txt
 User-agent: *
 # Disallow: /
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: https://www.cornwall.ac.uk/sitemap.xml
 
 
       
